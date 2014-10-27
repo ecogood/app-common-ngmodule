@@ -1,0 +1,24 @@
+{
+  "name": "blocks-ngmodule",
+  "version": "0.0.1",
+  "private": true,
+  "description": "AngularJS common block modules",
+  "homepage": "https://github.com/ecogood/blocks-ngmodule",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ecogood/blocks-ngmodule.git"
+  },
+  "keywords": [
+    "blocks",
+    "modules"
+  ],
+  "author": "Nikolay Georgiev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ecogood/blocks-ngmodule/issues"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.1",
+    "grunt-bump": "0.0.16"
+  }
+}
